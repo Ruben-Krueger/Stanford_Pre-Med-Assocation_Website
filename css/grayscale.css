@@ -47,12 +47,12 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #42DCA3;
+  color: #e2415c;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #1d9b6c;
+  color: #ffffff;
 }
 
 #mainNav {
@@ -213,6 +213,10 @@ a:focus, a:hover {
   }
 }
 
+#about {
+  background-color: #e2415c;
+}
+
 .btn {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -284,5 +288,18 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.profile {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
