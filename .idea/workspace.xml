@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8df78bc8-2f67-4cca-9b38-7db089e46df4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ruhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/saket.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +30,7 @@
           <entry key="css" value="3" />
           <entry key="html" value="2" />
           <entry key="ico" value="1" />
-          <entry key="jpg" value="1" />
+          <entry key="jpg" value="2" />
           <entry key="js" value="1" />
           <entry key="ts" value="1" />
         </counts>
@@ -38,21 +39,21 @@
         <counts>
           <entry key="CSS" value="3" />
           <entry key="HTML" value="2" />
-          <entry key="Image" value="2" />
+          <entry key="Image" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="327" />
-          <entry key="html" value="1914" />
+          <entry key="css" value="459" />
+          <entry key="html" value="1917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="327" />
-          <entry key="HTML" value="1914" />
+          <entry key="CSS" value="459" />
+          <entry key="HTML" value="1917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -60,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+            <state relative-caret-position="332">
+              <caret line="64" column="38" lean-forward="true" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#html#0;n#!!top" />
@@ -76,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="355" column="13" selection-start-line="355" selection-start-column="13" selection-end-line="398" selection-end-column="1" />
+            <state relative-caret-position="231">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -97,7 +98,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>img</find>
-      <find>url</find>
       <find>about</find>
       <find>content-section</find>
       <find>row</find>
@@ -106,6 +106,7 @@
       <find>color</find>
       <find>content</find>
       <find>a</find>
+      <find>url</find>
       <find>footer</find>
     </findStrings>
   </component>
@@ -116,8 +117,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/reference.html" />
-        <option value="$PROJECT_DIR$/css/grayscale.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/grayscale.css" />
       </list>
     </option>
   </component>
@@ -143,6 +144,16 @@
             <path>
               <item name="spa" type="b2602c69:ProjectViewProjectNode" />
               <item name="spa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spa" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spa" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535834128154</updated>
       <workItem from="1535834130695" duration="1740000" />
-      <workItem from="1535836825039" duration="15352000" />
+      <workItem from="1535836825039" duration="17135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17092000" />
+    <option name="totallyTimeSpent" value="18875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -233,17 +244,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="355" column="13" selection-start-line="355" selection-start-column="13" selection-end-line="398" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/hoover_background.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        <state relative-caret-position="332">
+          <caret line="64" column="38" lean-forward="true" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#html#0;n#!!top" />
@@ -251,6 +258,13 @@
             <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

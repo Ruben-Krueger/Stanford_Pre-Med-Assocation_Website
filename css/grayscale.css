@@ -12,11 +12,11 @@ html {
   height: 100%;
 }
 
+
+
 header {
-  background: url("https://c1.staticflickr.com/8/7148/6713478783_37e132aa3a_b.jpg") no-repeat bottom center scroll; /* Chrome, Safari, Opera */
+  background: url('../img/hoover_background.jpg') no-repeat bottom center scroll; /* Chrome, Safari, Opera */
 }
-
-
 
 h1,
 h2,
@@ -346,7 +346,7 @@ li p {
   width: 150px;
   height: 73px;
   position: relative;
-  margin: 20px auto;
+  /*margin: 20px auto;*/
 }
 
 .fade-in {
