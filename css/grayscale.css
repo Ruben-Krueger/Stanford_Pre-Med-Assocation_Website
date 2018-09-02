@@ -330,3 +330,12 @@ img::-moz-selection {
 .questions a {
   color: inherit;
 }
+
+
+li p {
+  text-align: left;
+}
+
+.hidden-content p {
+  text-align: left;
+}
