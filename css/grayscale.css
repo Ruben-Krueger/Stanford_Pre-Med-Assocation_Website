@@ -13,8 +13,10 @@ html {
 }
 
 header {
-  background: url("https://c1.staticflickr.com/8/7148/6713478783_37e132aa3a_b.jpg") no-repeat bottom center scroll;
+  background: url("https://c1.staticflickr.com/8/7148/6713478783_37e132aa3a_b.jpg") no-repeat bottom center scroll; /* Chrome, Safari, Opera */
 }
+
+
 
 h1,
 h2,
@@ -43,7 +45,9 @@ p {
   }
 }
 
-a {
+
+
+footer a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -190,8 +194,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: black no-repeat center center scroll;
-  background-color: black;
+  background: #fce8e8 no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -215,6 +218,10 @@ a:focus, a:hover {
 
 #about {
   background-color: #e2415c;
+}
+
+.resources {
+  background-color: #83ef9b
 }
 
 .btn {
@@ -303,11 +310,23 @@ img::-moz-selection {
   display: table;
 }
 
-i:hover {
+.hidden-content {
+  display: none;
+}
+
+.black:hover {
   color: #000000;
   cursor: pointer;
 }
 
-.hidden-content {
-  display: none;
+#download {
+  background-color: #1b1e21;
+}
+
+.questions a:hover {
+  color: #1b1e21;
+}
+
+.questions a {
+  color: inherit;
 }
