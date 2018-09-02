@@ -303,3 +303,11 @@ img::-moz-selection {
   display: table;
 }
 
+i:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+.hidden-content {
+  display: none;
+}
