@@ -320,11 +320,11 @@ img::-moz-selection {
 }
 
 #download {
-  background-color: #1b1e21;
+  background-color: black;
 }
 
 .questions a:hover {
-  color: #1b1e21;
+  color: black;
 }
 
 .questions a {
@@ -383,4 +383,34 @@ path {
 
 #contact a:hover {
   color: black;
+}
+
+#download a {
+ color: white;
+}
+
+#download a:hover {
+  color: #e2415c;
+}
+
+p {
+    font-size: 20px;
+}
+
+.typed-cursor {
+    opacity: 1;
+    animation: blink .7s infinite;
+    font-size: 30px;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }

@@ -25,31 +25,6 @@
     <link href="css/grayscale.css" rel="stylesheet">
 
   </head>
-	<style>
-		
-		p {
-			font-size: 20px;
-		}
-	
-		 .typed-cursor {
-        opacity: 1;
-        animation: blink .7s infinite;
-		font-size: 80px;
-    }
-
-    @keyframes blink {
-        0% {
-            opacity: 1;
-        }
-        50% {
-            opacity: 0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
-	</style>
-
   <body id="page-top">
 	 
 
@@ -116,13 +91,23 @@
           <div class="row">
             <div class="col-lg mx-auto">
               <img src="img/SPA%20Logo.png" width="300px" height="300px" class="img-responsive">
-              <p class="intro-text">One of the oldest, largest, student-run organizations on campus. Committed to providing our premeds trees the resources needed for a successful medical career.
-              </p>
+
+            </div>
+          </div>
+
+            <div class="row">
+              <div class="col-lg mx-auto">
+                <p class="intro-text" id="intro" style="display: inline">
+                </p>
+              </div>
+            </div>
+          <div class="row">
+            <div class="col-g mx-auto">
               <a href="#about" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
               </a>
             </div>
-          </div>
+            </div>
           </div>
         </div>
     </header>
@@ -312,7 +297,7 @@
           <h1> Contact us</h1>
 
           <p><a href="https://www.facebook.com/StanfordSPA">Let's get social</a></p>
-          <p><a href="https://mailman.stanford.edu/mailman/listinfo/stanford_premed ">Join the mailing list!!</a></p>
+          <p><a href="https://mailman.stanford.edu/mailman/listinfo/stanford_premed">Join the mailing list!!</a></p>
 
           <p class="questions">Questions? Contact <a href="mailto:kanwarr@stanford.edu">Ruhi Kanwar</a> or <a href="mailto:skmyneni@stanford.edu">Saket Myneni</a></p>
         </div>
@@ -415,20 +400,20 @@
     </script>
 
 
+    <!--One of the oldest, largest, student-run organizations on campus.-->
+    <!--Committed to providing our premeds trees the resources needed for a successful medical career.-->
 
+	  <script type="text/javascript">
+    var typed = new Typed('#intro', {
+        strings: ["A group of students who like to drink boba and watch House.", "A club for the pre-med trees to not stress about the MCAT.", "One of the oldest, largest, student-run organizations on campus. Committed to providing our premeds trees the resources needed for a successful medical career." ],
+        typeSpeed: 50,
+		backSpeed: 70,
+        smartBackspace: true,
+		backDelay: 3000,
 
-	  <!--<script type="text/javascript">-->
-    <!--var typed = new Typed('#title', {-->
-        <!--strings: ["What's up?", "How's it going?", "Want to hear my startup idea?" ],-->
-        <!--typeSpeed: 110,-->
-		<!--backSpeed: 70,-->
-        <!--smartBackspace: true,-->
-        <!--loop:true,-->
-		<!--backDelay: 3000,-->
-		<!---->
-    <!--});-->
+    });
 
-<!--</script>-->
+</script>
 	 
   </body>
 
