@@ -397,12 +397,6 @@ p {
     font-size: 20px;
 }
 
-.typed-cursor {
-    opacity: 1;
-    animation: blink .7s infinite;
-    font-size: 30px;
-}
-
 @keyframes blink {
     0% {
         opacity: 1;
@@ -447,3 +441,4 @@ p {
 #logo {
   animation: heartbeat 2s infinite;
 }
+

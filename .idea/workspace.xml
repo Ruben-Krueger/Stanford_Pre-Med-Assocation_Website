@@ -37,6 +37,7 @@
           <entry key="js" value="1" />
           <entry key="png" value="2" />
           <entry key="rnc" value="1" />
+          <entry key="scss" value="1" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
@@ -47,19 +48,22 @@
           <entry key="Image" value="5" />
           <entry key="JavaScript" value="1" />
           <entry key="RNG Compact" value="1" />
+          <entry key="SCSS" value="1" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="653" />
-          <entry key="html" value="3195" />
+          <entry key="css" value="664" />
+          <entry key="html" value="3198" />
+          <entry key="scss" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="653" />
-          <entry key="HTML" value="3195" />
+          <entry key="CSS" value="664" />
+          <entry key="HTML" value="3198" />
+          <entry key="SCSS" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -70,16 +74,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="120" column="77" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="77" />
+            <state relative-caret-position="190">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
@@ -93,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="451" column="2" selection-start-line="451" selection-start-column="2" selection-end-line="451" selection-end-column="2" />
+            <state relative-caret-position="783">
+              <caret line="444" lean-forward="true" selection-start-line="444" selection-end-line="444" />
             </state>
           </provider>
         </entry>
@@ -121,6 +125,7 @@
       <find>a</find>
       <find>url</find>
       <find>footer</find>
+      <find>colla</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,6 +136,7 @@
       <list>
         <option value="$PROJECT_DIR$/reference.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/vendor/scss/_navbar.scss" />
         <option value="$PROJECT_DIR$/css/grayscale.css" />
       </list>
     </option>
@@ -205,12 +211,12 @@
       <workItem from="1535959725561" duration="2756000" />
       <workItem from="1536008709177" duration="4431000" />
       <workItem from="1536015624375" duration="303000" />
-      <workItem from="1536089455214" duration="1814000" />
+      <workItem from="1536089455214" duration="2948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33234000" />
+    <option name="totallyTimeSpent" value="34368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -270,18 +276,25 @@
     <entry file="file://$PROJECT_DIR$/img/SPA Logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/scss/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="120" column="77" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="77" />
+        <state relative-caret-position="190">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
@@ -293,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="451" column="2" selection-start-line="451" selection-start-column="2" selection-end-line="451" selection-end-column="2" />
+        <state relative-caret-position="783">
+          <caret line="444" lean-forward="true" selection-start-line="444" selection-end-line="444" />
         </state>
       </provider>
     </entry>
